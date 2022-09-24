@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+body {
+    background-image: url("/Restaurant-menu/image-assets/background1.jpg");
+    background-repeat: no-repeat;
+    background-color: #d8d8d8;
+    background-size: 100%;
+    padding-bottom: 1500px;
+
+}
