@@ -4,9 +4,9 @@
     column-gap: 500px;
     margin-top: 100px;
     justify-content: space-between;
-    font-family: 'Hind', sans-serif;
     border-bottom: ridge 4px orange;
     padding-bottom: 15px;
+    font-family: 'Hind', sans-serif;
 }
 
 .column-1 {
@@ -62,4 +62,12 @@
 .home-img {
     width: 100%;
 
+}
+
+#section-1-end {
+    display: flex;
+    justify-content: center;
+    font-family: 'Hind', sans-serif;
+    font-weight: 700;
+    margin-top: 70px;
 }
