@@ -101,13 +101,14 @@
 
 .icons {
     width: 150px;
-    margin-bottom: 20px;
+    height: 150px;
+    margin-bottom: 25px;
 }
 
 .food-title {
     font-weight: 800;
     font-size: 24px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .description {
