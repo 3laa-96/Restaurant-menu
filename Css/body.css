@@ -166,3 +166,10 @@
 .popular-dishes {
     width: 100%;
 }
+
+.section-4 {
+    background-color: white;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+}
