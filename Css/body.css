@@ -196,7 +196,7 @@
     display: grid;
     column-gap: 30px;
     grid-template-columns: 1fr 1fr 1fr;
-    background-image: url("/Restaurant-menu/image-assets/background1.jpg");
+    background-image: url("image-assets/background1.jpg");
 
     padding-left: 90px;
     padding-right: 90px;
