@@ -12,3 +12,34 @@ body {
     padding-bottom: 800px;
     margin: 0px;
 }
+
+#loading {
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: white;
+    font-weight: 700;
+    position: fixed;
+    z-index: 149;
+    justify-content: center;
+    align-items: center;
+}
+
+#loading-giff {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    z-index: 150;
+}
+
+#welcome-button {
+    padding: 10px;
+}
+
+#welcome-button:active {
+    opacity: 0;
+}
